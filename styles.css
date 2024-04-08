@@ -16,7 +16,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("./img/IMG-20240406-WA0104.jpg");
+  background-image: url("IMG-20240406-WA0104.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -30,7 +30,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("./img/IMG-20240406-WA0104.jpg");
+  background-image: url("IMG-20240406-WA0104.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -96,7 +96,7 @@ hero p {
 }
 
 .home {
-  background-image: url("./img/bg-floral.png");
+  background-image: url("bg-floral.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -225,7 +225,7 @@ hero p {
 .no-webp .groomphoto1 {
   height: 624px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-06.jpg");
+  background-image: url("Groom&Bride-06.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -234,7 +234,7 @@ hero p {
 .webp .groomphoto1 {
   height: 624px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-06.webp");
+  background-image: url("Groom&Bride-06.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -243,7 +243,7 @@ hero p {
 .no-webp .groomphoto2 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-03.jpg");
+  background-image: url("Groom&Bride-03.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -252,7 +252,7 @@ hero p {
 .webp .groomphoto2 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-03.webp");
+  background-image: url("Groom&Bride-03.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -261,7 +261,7 @@ hero p {
 .no-webp .groomphoto3 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-07.jpg");
+  background-image: url("Groom&Bride-07.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -270,7 +270,7 @@ hero p {
 .webp .groomphoto3 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-07.webp");
+  background-image: url("Groom&Bride-07.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -279,7 +279,7 @@ hero p {
 .no-webp .groomphoto4 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-01.jpg");
+  background-image: url("Groom&Bride-01.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -288,7 +288,7 @@ hero p {
 .webp .groomphoto4 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-01.webp");
+  background-image: url("Groom&Bride-01.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -297,7 +297,7 @@ hero p {
 .no-webp .groomphoto5 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-05.jpg");
+  background-image: url("Groom&Bride-05.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -306,7 +306,7 @@ hero p {
 .webp .groomphoto5 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-05.webp");
+  background-image: url("Groom&Bride-05.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -315,7 +315,7 @@ hero p {
 .no-webp .groomphoto6 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-08.jpg");
+  background-image: url("Groom&Bride-08.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -324,7 +324,7 @@ hero p {
 .webp .groomphoto6 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-08.webp");
+  background-image: url("Groom&Bride-08.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -333,7 +333,7 @@ hero p {
 .no-webp .groomphoto7 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-02.jpg");
+  background-image: url("Groom&Bride-02.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -342,7 +342,7 @@ hero p {
 .webp .groomphoto7 {
   height: 300px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-02.webp");
+  background-image: url("Groom&Bride-02.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -351,7 +351,7 @@ hero p {
 .no-webp .groomphoto8 {
   height: 624px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-04.jpg");
+  background-image: url("Groom&Bride-04.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -360,7 +360,7 @@ hero p {
 .webp .groomphoto8 {
   height: 624px;
   background-color: #0a0a0a;
-  background-image: url("./img/Groom&Bride-04.webp");
+  background-image: url("Groom&Bride-04.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
